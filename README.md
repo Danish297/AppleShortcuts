@@ -1,0 +1,2 @@
+# AppleShortcuts
+An Apple automation
