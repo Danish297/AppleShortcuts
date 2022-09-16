@@ -1,2 +1,2 @@
 # AppleShortcuts
-An Apple automation
+An Apple automation.
